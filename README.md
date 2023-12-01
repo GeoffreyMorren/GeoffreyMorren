@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @GeoffreyMorren
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hello, I'm Geoffrey - Cybersecurity Professional
 
-<!---
-GeoffreyMorren/GeoffreyMorren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to comprehend the intricate workings of data and system protection. My mission is to contribute to a safer digital world, not only by securing information but also by empowering individuals to protect themselves and others.
+
+## 🎓 Certifications
+
+- **Google Cybersecurity Professional Certificate**
+  - Performing a security audit based on NIST CSF.
+  - Incident report analysis based on NIST CSF.
+  - Using Linux commands in Bash to manage file permissions.
+  - Applying filters to SQL queries.
+  - Analyzing a vulnerable system for a small business using NIST SP 800-30 Rev. 1.
+  - Maintaining an incident handler’s journal.
+  - Exploring signatures and logs with Suricata.
+  - Capture a packet with TCPDump.
+  - Analyze a packet with Wireshark.
+  - Update a file through a Python algorithm.
+
+
+## 👨‍💻 Cybersecurity Projects
+
+- Configuring and updating Microsoft Defender.
+- Enabling and configuring Microsoft Firewall.
+
+
+## ✉ Connect with Me
+
+[<img align="left" alt="GeoffreyMorren | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [LinkedIn]
+
+[linkedin]: https://www.linkedin.com/in/geoffreymorren
