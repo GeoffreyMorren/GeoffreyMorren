@@ -20,7 +20,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
 ## 👨‍💻 Cybersecurity Projects
 
 - [Configuring and updating Microsoft Defender.](https://github.com/GeoffreyMorren/Microsoft-Defender)
-- Enabling and configuring Microsoft Firewall.
+- [Enabling and configuring Microsoft Firewall.](https://github.com/GeoffreyMorren/Microsoft-Firewall)
 
 
 ## ✉ Connect with Me
