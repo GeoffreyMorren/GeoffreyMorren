@@ -10,7 +10,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
   - Using Linux commands in Bash to manage file permissions.
   - Applying filters to SQL queries.
   - Analyzing a vulnerable system for a small business using NIST SP 800-30 Rev. 1.
-  - Maintaining an incident handler’s journal.
+  - [Maintaining an incident handler’s journal.](https://github.com/GeoffreyMorren/Incident-Handlers-Journal)
   - [Exploring signatures and logs with Suricata.](https://github.com/GeoffreyMorren/Suricata)
   - [Capture a packet with TCPDump.](https://github.com/GeoffreyMorren/TCPDump)
   - [Analyze a packet with Wireshark.](https://github.com/GeoffreyMorren/Wireshark)
