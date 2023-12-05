@@ -4,7 +4,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
 
 ## 🎓 Certifications
 
-- **Google Cybersecurity Professional Certificate**
+- **Google Cybersecurity Professional [Certificate](https://coursera.org/share/e4d7aaf26d8b0d390a51cf90cfb4bdaa)** 
   - [Performing a security audit based on NIST CSF.](https://github.com/GeoffreyMorren/Security-Audit)
   - [Incident report analysis based on NIST CSF.](https://github.com/GeoffreyMorren/Incident-Report-Analysis)
   - [Using Linux commands in Bash to manage file permissions.](https://github.com/GeoffreyMorren/Linux-File-Permissions)
