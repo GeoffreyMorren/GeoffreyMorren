@@ -7,7 +7,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
 - **Google Cybersecurity Professional Certificate**
   - Performing a security audit based on NIST CSF.
   - Incident report analysis based on NIST CSF.
-  - Using Linux commands in Bash to manage file permissions.
+  - [Using Linux commands in Bash to manage file permissions.](https://github.com/GeoffreyMorren/Linux-File-Permissions)
   - [Applying filters to SQL queries.](https://github.com/GeoffreyMorren/SQL-Filters)
   - [Analyzing a vulnerable system for a small business using NIST SP 800-30 Rev. 1.](https://github.com/GeoffreyMorren/Vulnerability-Assessment-Report/tree/main)
   - [Maintaining an incident handler’s journal.](https://github.com/GeoffreyMorren/Incident-Handlers-Journal)
