@@ -16,11 +16,16 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
   - [Analyze a packet with Wireshark.](https://github.com/GeoffreyMorren/Wireshark)
   - [Update a file through a Python algorithm.](https://github.com/GeoffreyMorren/Python)
 
+- **Microsoft Cybersecurity Analyst Professional Certificate**
+  - Secure Identity and Access with Microsoft Entra.
+  - Configure Microsoft Sentinel to ingest data and detect threats.
+
 
 ## 👨‍💻 Cybersecurity Projects
 
 - [Configuring and updating Microsoft Defender.](https://github.com/GeoffreyMorren/Microsoft-Defender)
 - [Enabling and configuring Microsoft Firewall.](https://github.com/GeoffreyMorren/Microsoft-Firewall)
+- Azure: Create a Virtual Machine and Deploy a Web Server
 
 
 ## ✉ Connect with Me
