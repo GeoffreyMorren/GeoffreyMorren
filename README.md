@@ -17,7 +17,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
   - [Update a file through a Python algorithm.](https://github.com/GeoffreyMorren/Python)
 
 - **Microsoft Cybersecurity Analyst Professional Certificate**
-  - Secure Identity and Access with Microsoft Entra.
+  - [Secure Identity and Access with Microsoft Entra.](https://github.com/GeoffreyMorren/Microsoft-Entra)
   - Configure Microsoft Sentinel to ingest data and detect threats.
 
 
