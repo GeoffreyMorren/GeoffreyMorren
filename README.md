@@ -25,7 +25,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
 
 - [Configuring and updating Microsoft Defender.](https://github.com/GeoffreyMorren/Microsoft-Defender)
 - [Enabling and configuring Microsoft Firewall.](https://github.com/GeoffreyMorren/Microsoft-Firewall)
-- Azure: Create a Virtual Machine and Deploy a Web Server
+- [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/GeoffreyMorren/Azure-VM-WS)
 
 
 ## ✉ Connect with Me
