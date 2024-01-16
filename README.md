@@ -4,7 +4,7 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
 
 ## 🎓 Certifications
 
-- **Google Cybersecurity Professional Certificate**
+- **Google Cybersecurity Professional [Certificate](https://coursera.org/share/e4d7aaf26d8b0d390a51cf90cfb4bdaa)**
   - [Performing a security audit based on NIST CSF.](https://github.com/GeoffreyMorren/Security-Audit)
   - [Incident report analysis based on NIST CSF.](https://github.com/GeoffreyMorren/Incident-Report-Analysis)
   - [Using Linux commands in Bash to manage file permissions.](https://github.com/GeoffreyMorren/Linux-File-Permissions)
@@ -16,9 +16,12 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
   - [Analyze a packet with Wireshark.](https://github.com/GeoffreyMorren/Wireshark)
   - [Update a file through a Python algorithm.](https://github.com/GeoffreyMorren/Python)
 
-- **Microsoft Cybersecurity Analyst Professional Certificate**
+- **Microsoft Cybersecurity Analyst Professional [Certificate](https://coursera.org/share/a9c64432cc50680c964f57777a715fbc)**
   - [Secure Identity and Access with Microsoft Entra.](https://github.com/GeoffreyMorren/Microsoft-Entra)
   - [Configure Microsoft Sentinel to ingest data and detect threats.](https://github.com/GeoffreyMorren/Microsoft-Sentinel)
+
+- **Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate**
+  - In progress..
 
 
 ## 👨‍💻 Cybersecurity Projects
