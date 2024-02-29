@@ -30,6 +30,8 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
 
 
 ## 👨‍💻 TryHackMe
+- **Pre Security**
+  - In Progress.. 
 
 
 ## 👨‍💻 HackTheBox
