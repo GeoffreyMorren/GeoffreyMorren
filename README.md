@@ -21,20 +21,12 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
   - [Configure Microsoft Sentinel to ingest data and detect threats.](https://github.com/GeoffreyMorren/Microsoft-Sentinel)
 
 
-## 🛡️ Cybersecurity Projects
+## 👨‍💻 Cybersecurity Projects
 
 - [Configuring and updating Microsoft Defender.](https://github.com/GeoffreyMorren/Microsoft-Defender)
 - [Enabling and configuring Microsoft Firewall.](https://github.com/GeoffreyMorren/Microsoft-Firewall)
 - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/GeoffreyMorren/Azure-VM-WS)
 - [Securing an Azure SQL Database](https://github.com/GeoffreyMorren/Azure-SQL-Database)
-
-
-## 👨‍💻 TryHackMe
-- **Pre Security**
-  - In Progress.. 
-
-
-## 👨‍💻 HackTheBox
 
 
 ## ✉ Connect with Me
