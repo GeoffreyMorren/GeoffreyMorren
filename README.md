@@ -20,8 +20,6 @@ Welcome to my Cybersecurity portfolio! I am passionately driven by the desire to
   - [Secure Identity and Access with Microsoft Entra.](https://github.com/GeoffreyMorren/Microsoft-Entra)
   - [Configure Microsoft Sentinel to ingest data and detect threats.](https://github.com/GeoffreyMorren/Microsoft-Sentinel)
 
-- **Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate**
-  - In progress..
 
 
 ## 👨‍💻 Cybersecurity Projects
